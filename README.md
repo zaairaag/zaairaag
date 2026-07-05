@@ -49,8 +49,12 @@ Chega um projeto travado, atrasado ou ainda no papel e eu entrego ele no ar. Tra
 <br>
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38BDF8?style=flat-square&logo=tailwindcss)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
+![SharePoint Framework](https://img.shields.io/badge/SPFx-0078D4?style=flat-square&logo=microsoft&logoColor=white)
 
 **Backend** · foco atual
 <br>
@@ -58,6 +62,7 @@ Chega um projeto travado, atrasado ou ainda no papel e eu entrego ele no ar. Tra
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql)
 
 </td>
 <td valign="top" width="50%">
@@ -68,13 +73,20 @@ Chega um projeto travado, atrasado ou ainda no papel e eu entrego ele no ar. Tra
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
 
-**E-commerce & Infra**
+**E-commerce & CMS**
 <br>
 ![Shopify](https://img.shields.io/badge/Shopify-7AB55C?style=flat-square&logo=shopify&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
+
+**Infra, scripts & ferramentas**
+<br>
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git)
 
 </td>
 </tr>
