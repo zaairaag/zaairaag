@@ -1,13 +1,13 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/zaairaag/zaairaag/main/banner.png" alt="Zaíra Gonçalves — Fullstack Developer" width="100%" />
+<img src="https://raw.githubusercontent.com/zaairaag/zaairaag/main/banner.png" alt="Zaíra Gonçalves, Fullstack Developer" width="100%" />
 
 <br>
 
 # Zaíra Gonçalves.
 
 **Front é minha especialidade. Backend em PHP e Laravel é meu foco agora.**
-Sistemas, lojas e IA que rodam de verdade — da ideia ao deploy.
+Sistemas, lojas e IA que rodam de verdade, da ideia ao deploy.
 
 <a href="https://zairagoncalves.com">
   <img src="https://img.shields.io/badge/Portfólio-zairagoncalves.com-FFD400?style=for-the-badge&logo=googlechrome&logoColor=000" />
@@ -30,10 +30,10 @@ Sistemas, lojas e IA que rodam de verdade — da ideia ao deploy.
 
 Chega um projeto travado, atrasado ou ainda no papel e eu entrego ele no ar. Trabalho de ponta a ponta: interface, banco de dados, integrações e infra.
 
-- 🖥️ **Sistemas web completos** — do front ao banco de dados
-- 🛒 **E-commerce** — Shopify, WooCommerce, lojas sob medida
-- 🤖 **IA aplicada** — LLMs, RAG e agents rodando em produção, não em demo
-- 🔌 **Integrações e automações** — APIs, webhooks, n8n
+- 🖥️ **Sistemas web completos**, do front ao banco de dados
+- 🛒 **E-commerce**: Shopify, WooCommerce, lojas sob medida
+- 🤖 **IA aplicada**: LLMs, RAG e agents rodando em produção, não em demo
+- 🔌 **Integrações e automações**: APIs, webhooks, n8n
 - 🔐 **Autenticação, pagamentos e regra de negócio**
 - 📊 **Dashboards e ferramentas internas**
 
@@ -84,7 +84,7 @@ Chega um projeto travado, atrasado ou ainda no papel e eu entrego ele no ar. Tra
 
 ## Como eu trabalho
 
-> Entendo o contexto antes de codar. Organizo o fluxo, proponho a solução e entrego por partes — com teste e código que evolui sem virar dívida.
+> Entendo o contexto antes de codar. Organizo o fluxo, proponho a solução e entrego por partes, com testes e código que evolui sem virar dívida.
 
 <br>
 
@@ -101,7 +101,7 @@ Chega um projeto travado, atrasado ou ainda no papel e eu entrego ele no ar. Tra
 ---
 
 <div align="center">
-<sub>🇺🇸 English below</sub>
+<sub>🌐 English below</sub>
 </div>
 
 ---
@@ -113,7 +113,7 @@ Chega um projeto travado, atrasado ou ainda no papel e eu entrego ele no ar. Tra
 # Hi, I'm Zaíra Gonçalves.
 
 **Front-end is my specialty. PHP and Laravel backend is my current focus.**
-Systems, stores and AI that run for real — from idea to deploy.
+Systems, stores and AI that run for real, from idea to deploy.
 
 </div>
 
@@ -123,10 +123,10 @@ Systems, stores and AI that run for real — from idea to deploy.
 
 A stuck, late, or still-on-paper project comes in and I ship it live. End to end: interface, database, integrations and infra.
 
-- 🖥️ **Full web systems** — front end to database
-- 🛒 **E-commerce** — Shopify, WooCommerce, custom storefronts
-- 🤖 **Applied AI** — LLMs, RAG and agents in production, not demos
-- 🔌 **Integrations & automations** — APIs, webhooks, n8n
+- 🖥️ **Full web systems**, front end to database
+- 🛒 **E-commerce**: Shopify, WooCommerce, custom storefronts
+- 🤖 **Applied AI**: LLMs, RAG and agents in production, not demos
+- 🔌 **Integrations & automations**: APIs, webhooks, n8n
 - 🔐 **Auth, payments and business logic**
 - 📊 **Dashboards and internal tools**
 
@@ -134,7 +134,7 @@ A stuck, late, or still-on-paper project comes in and I ship it live. End to end
 
 ## How I work
 
-> I understand the context before writing code. I map the flow, propose a solution and ship in increments — with tests and code that grows without turning into debt.
+> I understand the context before writing code. I map the flow, propose a solution and ship in increments, with tests and code that grows without turning into debt.
 
 <br>
 
