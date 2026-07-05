@@ -1,119 +1,145 @@
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/zaairaag/zaairaag/main/banner.png" alt="Zaíra Gonçalves — Fullstack Developer" width="100%" />
+
+<br>
+
 # Zaíra Gonçalves.
 
-🚀 **Desenvolvedora Fullstack** · Front especialista (React, Next.js) · Foco atual: PHP & Laravel
-🇧🇷 São Paulo, Brasil
+**Front é minha especialidade. Backend em PHP e Laravel é meu foco agora.**
+Sistemas, lojas e IA que rodam de verdade — da ideia ao deploy.
 
-Construo sistemas web completos, e-commerce e produtos com IA aplicada, do front ao banco de dados. Front é onde tenho mais estrada; backend em PHP e Laravel é onde estou colocando o foco agora. Entrego de ponta a ponta: da ideia ao deploy.
+<a href="https://zairagoncalves.com">
+  <img src="https://img.shields.io/badge/Portfólio-zairagoncalves.com-FFD400?style=for-the-badge&logo=googlechrome&logoColor=000" />
+</a>
+<a href="https://www.linkedin.com/in/zaira-goncalves/">
+  <img src="https://img.shields.io/badge/LinkedIn-Zaíra%20Gonçalves-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://twitter.com/zaairaag">
+  <img src="https://img.shields.io/badge/X-@zaairaag-000000?style=for-the-badge&logo=x&logoColor=white" />
+</a>
+<a href="mailto:contato@zairagoncalves.com">
+  <img src="https://img.shields.io/badge/Email-contato@zairagoncalves.com-FFD400?style=for-the-badge&logo=gmail&logoColor=000" />
+</a>
 
-Também aplico IA Generativa em produção: LLMs, pipelines RAG e agents que resolvem problema de verdade, não só demo.
+</div>
 
----
+<br>
 
-## 🌐 Onde me encontrar
+## O que eu resolvo
 
-<p align="left">
-  <a href="https://zairagoncalves.com">
-    <img src="https://img.shields.io/badge/Portfólio-zairagoncalves.com-FFD400?style=for-the-badge&logo=googlechrome&logoColor=000" />
-  </a>
-  <a href="https://www.linkedin.com/in/zaira-goncalves/">
-    <img src="https://img.shields.io/badge/LinkedIn-Zaíra%20Gonçalves-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://twitter.com/zaairaag">
-    <img src="https://img.shields.io/badge/X-@zaairaag-000000?style=for-the-badge&logo=x&logoColor=white" />
-  </a>
-  <a href="mailto:contato@zairagoncalves.com">
-    <img src="https://img.shields.io/badge/Email-contato@zairagoncalves.com-FFD400?style=for-the-badge&logo=gmail&logoColor=000" />
-  </a>
-</p>
+Chega um projeto travado, atrasado ou ainda no papel e eu entrego ele no ar. Trabalho de ponta a ponta: interface, banco de dados, integrações e infra.
 
----
+- 🖥️ **Sistemas web completos** — do front ao banco de dados
+- 🛒 **E-commerce** — Shopify, WooCommerce, lojas sob medida
+- 🤖 **IA aplicada** — LLMs, RAG e agents rodando em produção, não em demo
+- 🔌 **Integrações e automações** — APIs, webhooks, n8n
+- 🔐 **Autenticação, pagamentos e regra de negócio**
+- 📊 **Dashboards e ferramentas internas**
 
-## 🧠 O que eu faço
+<br>
 
-- 🖥️ Sistemas web completos, do front ao banco de dados
-- 🛒 E-commerce: Shopify, WooCommerce, lojas sob medida
-- 🤖 IA aplicada: LLMs, RAG e agents em produção
-- 🔌 Integrações e automações: APIs, webhooks, n8n
-- 🔐 Autenticação, pagamentos e regras de negócio
-- 📊 Dashboards e ferramentas internas
+## Stack
 
----
+<table>
+<tr>
+<td valign="top" width="50%">
 
-## 🛠️ Stack
+**Front-end** · minha especialidade
+<br>
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38BDF8?style=flat-square&logo=tailwindcss)
 
-### Frontend (especialidade)
+**Backend** · foco atual
+<br>
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql)
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)
-![JavaScript](https://img.shields.io/badge/JavaScript-FFD43B?style=for-the-badge&logo=javascript&logoColor=000)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38BDF8?style=for-the-badge&logo=tailwindcss)
+</td>
+<td valign="top" width="50%">
 
-### Backend (foco atual)
+**IA & Automação**
+<br>
+![OpenAI](https://img.shields.io/badge/OpenAI%20API-412991?style=flat-square&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
 
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
+**E-commerce & Infra**
+<br>
+![Shopify](https://img.shields.io/badge/Shopify-7AB55C?style=flat-square&logo=shopify&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel)
 
-### IA & Automação
+</td>
+</tr>
+</table>
 
-![OpenAI](https://img.shields.io/badge/OpenAI%20API-412991?style=for-the-badge&logo=openai&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+<br>
 
-### E-commerce & CMS
+## Como eu trabalho
 
-![Shopify](https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
-![WooCommerce](https://img.shields.io/badge/WooCommerce-96588A?style=for-the-badge&logo=woocommerce&logoColor=white)
+> Entendo o contexto antes de codar. Organizo o fluxo, proponho a solução e entrego por partes — com teste e código que evolui sem virar dívida.
 
-### DevOps & Ferramentas
+<br>
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma)
+<div align="center">
 
----
-
-## 💬 Como eu trabalho
-
-> Gosto de entender o contexto antes de codar. Organizo o fluxo, proponho a solução e entrego por partes, com testes e código que evolui sem virar dívida.
-
----
-
-🤝 Aberta pra vaga CLT, PJ fixo e parceria com agências pra terceirização
+🤝 **Aberta pra CLT, PJ fixo e parceria com agências pra terceirização**
+<br>
 ⭐ Se algum projeto aqui te ajudou, deixa uma estrela
 
-<br>
+</div>
+
+<br><br>
+
+---
+
+<div align="center">
+<sub>🇺🇸 English below</sub>
+</div>
 
 ---
 
 <br>
 
-# Hi 👋, I'm Zaíra Gonçalves.
+<div align="center">
 
-🚀 **Fullstack Developer** · Front-end specialist (React, Next.js) · Currently focused on PHP & Laravel
-🇧🇷 São Paulo, Brazil
+# Hi, I'm Zaíra Gonçalves.
 
-I build complete web systems, e-commerce and AI-powered products, from front end to database. Front end is where I have the most experience; PHP and Laravel backend is where I'm putting my focus right now. I ship end to end, from idea to deploy.
+**Front-end is my specialty. PHP and Laravel backend is my current focus.**
+Systems, stores and AI that run for real — from idea to deploy.
 
-I also apply Generative AI in production: LLMs, RAG pipelines and agents that solve real problems, not just demos.
+</div>
 
-## 🧠 What I do
+<br>
 
-- 🖥️ Full web systems, front end to database
-- 🛒 E-commerce: Shopify, WooCommerce, custom storefronts
-- 🤖 Applied AI: LLMs, RAG and agents in production
-- 🔌 Integrations & automations: APIs, webhooks, n8n
-- 🔐 Auth, payments and business logic
-- 📊 Dashboards and internal tools
+## What I solve
 
-## 💬 How I work
+A stuck, late, or still-on-paper project comes in and I ship it live. End to end: interface, database, integrations and infra.
 
-> I like to understand the context before writing code. I map the flow, propose a solution and ship in increments, with tests and code that grows without turning into debt.
+- 🖥️ **Full web systems** — front end to database
+- 🛒 **E-commerce** — Shopify, WooCommerce, custom storefronts
+- 🤖 **Applied AI** — LLMs, RAG and agents in production, not demos
+- 🔌 **Integrations & automations** — APIs, webhooks, n8n
+- 🔐 **Auth, payments and business logic**
+- 📊 **Dashboards and internal tools**
 
-🤝 Open to CLT roles, fixed PJ contracts and agency partnerships for outsourcing
+<br>
+
+## How I work
+
+> I understand the context before writing code. I map the flow, propose a solution and ship in increments — with tests and code that grows without turning into debt.
+
+<br>
+
+<div align="center">
+
+🤝 **Open to CLT roles, fixed PJ contracts and agency partnerships for outsourcing**
+
+</div>
