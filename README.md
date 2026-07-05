@@ -79,15 +79,6 @@ Também aplico IA Generativa em produção: LLMs, pipelines RAG e agents que res
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=zaairaag&show_icons=true&count_private=true&hide_border=true&bg_color=0A0A0A&title_color=FFD400&icon_color=FFD400&text_color=FFFFFF" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zaairaag&layout=compact&hide_border=true&bg_color=0A0A0A&title_color=FFD400&text_color=FFFFFF" />
-</p>
-
----
-
 ## 💬 Como eu trabalho
 
 > Gosto de entender o contexto antes de codar. Organizo o fluxo, proponho a solução e entrego por partes, com testes e código que evolui sem virar dívida.
